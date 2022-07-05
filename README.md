@@ -1,4 +1,4 @@
-Logo GB.png
+![alt-текст](https://github.com/LeshiyOleg/Final_Work/blob/main/Logo%20GB.png?raw=true "Вот тут умный мозг Разработчика")
 
 # Итоговая проверочная работа
 
